@@ -1,5 +1,5 @@
 # Anki-deck-Anvendt-statistik
-This deck is created for the course _Anvendt statistik_ for engineering students in their 2. semester at Aalborg university (AAU), which is in danish, and the deck is thus primarily in danish.
+This deck is created for the course _Applied statistics_ for engineering students at Aalborg university (AAU), which is in danish, and the deck is thus primarily in danish.
 
 ----
 
